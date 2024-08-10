@@ -88,6 +88,10 @@ Weather Table after adding new attribute CLIMATE:
 
 ![WhatsApp Image 2024-08-10 at 09 40 04_17e8329a](https://github.com/user-attachments/assets/51787ad0-5692-4f3e-a613-21cc1b9c0a66)
 
+Employee Table after adding new attribute ADDRESS:
+
+![WhatsApp Image 2024-08-10 at 10 03 04_432adbcd](https://github.com/user-attachments/assets/0e65a254-e808-4e14-a9aa-0ae74bb65d96)
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -109,6 +113,10 @@ Weather Table after removing attributes WINDY, PLAY:
 
 ![WhatsApp Image 2024-08-10 at 09 44 31_a830d40c](https://github.com/user-attachments/assets/e452ee3d-c0bd-41ed-b8da-3b01b2f4d9b5)
 
+Employee Table after removing attributes SALARY, GENDER:
+
+![WhatsApp Image 2024-08-10 at 10 06 51_a54ac48d](https://github.com/user-attachments/assets/c75de426-d38f-45ab-931f-6cc789524492)
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -129,6 +137,11 @@ Weather Table after removing attributes WINDY, PLAY:
 Weather Table after Normalizing TEMPARATURE, HUMIDITY:
 
 ![WhatsApp Image 2024-08-10 at 09 46 58_7dc9b37d](https://github.com/user-attachments/assets/4e4b1a60-e2cd-4963-837e-fac189ebf71d)
+
+Employee Table after Normalizing ID, EXP, PHONE:
+
+![WhatsApp Image 2024-08-10 at 10 09 39_35c17dc7](https://github.com/user-attachments/assets/80909db5-83b6-4d5f-b60b-e4d0c5d9ba95)
+
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
