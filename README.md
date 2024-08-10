@@ -54,6 +54,14 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+Employee Table
+
+![WhatsApp Image 2024-08-10 at 08 58 52_ea807729](https://github.com/user-attachments/assets/e3c31152-8a6e-44d6-a33f-62770fd575b3)
+
+
+Weather Table
+
+![WhatsApp Image 2024-08-10 at 09 05 40_23ebe0ed](https://github.com/user-attachments/assets/ceaff833-4da7-4ed7-bc80-70457ed1467e)
 
 
 ### PREPROCESSING
@@ -76,6 +84,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+Weather Table after adding new attribute CLIMATE:
+
+![WhatsApp Image 2024-08-10 at 09 40 04_17e8329a](https://github.com/user-attachments/assets/51787ad0-5692-4f3e-a613-21cc1b9c0a66)
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +105,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+Weather Table after removing attributes WINDY, PLAY:
+
+![WhatsApp Image 2024-08-10 at 09 44 31_a830d40c](https://github.com/user-attachments/assets/e452ee3d-c0bd-41ed-b8da-3b01b2f4d9b5)
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +125,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+
+![WhatsApp Image 2024-08-10 at 09 46 58_7dc9b37d](https://github.com/user-attachments/assets/4e4b1a60-e2cd-4963-837e-fac189ebf71d)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
